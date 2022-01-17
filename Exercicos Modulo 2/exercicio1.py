@@ -29,3 +29,7 @@ print(f'Foram cadastradas {len(quantidade_pessoas)} pessoas no total')
 print(f'A idade média das pessoas cadastradas é de: {idade_media:.0f} anos')
 print(f'As mulheres cadastradas são: {mulher}')
 print(f'As pessoas cadastradas acima da média de {idade_media:.0f} anos são: {media_acima}')
+
+
+
+### TESTE GITHUB
