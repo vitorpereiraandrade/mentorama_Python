@@ -32,4 +32,3 @@ print(f'As pessoas cadastradas acima da média de {idade_media:.0f} anos são: {
 
 
 
-### TESTE GITHUB
