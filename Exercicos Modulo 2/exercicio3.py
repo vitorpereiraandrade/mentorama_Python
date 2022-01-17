@@ -1,0 +1,10 @@
+tupla = ('aluno', 'universidade', 'nota', 'resultado')
+w, x, y, z = tupla
+print(w)
+print(type(w))
+print(x)
+print(type(x))
+print(y)
+print(type(y))
+print(z)
+print(type(z))
