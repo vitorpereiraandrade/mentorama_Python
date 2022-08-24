@@ -1,6 +1,6 @@
-a = 1
-b = 5
-c = 6
+a = int(input('Digite o primeiro numero: '))
+b = int(input('Digite o segundo numero: '))
+c = int(input('Digite o terceiro numero: '))
 
 delta = (b ** 2) - 4 * a * c
 print(f'O valor de Delta: {delta:.1f}')
