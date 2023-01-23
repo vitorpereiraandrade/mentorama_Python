@@ -1,0 +1,11 @@
+A) R: O problema do produtor e consumidor, tambem chamado como Bounded Buffer Problem(BBP), consiste em um desafio
+de sincornizacao de duas ou mais threads concorrentes que tem acesso a um mesmo recurso do programa que esta sendo
+executado, no caso para resolver o problema acredito que a solucao seja feita com um Semaforos e Locks para controlar
+o Produtor e outro pra controlar o Consumidor, outra coisa que pesquisei e descobri que podemos usar o modulo Queue,
+que e util quando as informacoes devem ser trocadas com seguranca entre varios threads.
+
+B)R: Outro problema e o desempenho, problemas concorrentes que utilizam multiplos threads sao mais rapidos do que imple-
+mentados como multiplos(sub) processos. Como os threads compartilhamm os recursos do processo, as operacoes de criacao,
+troca de contexto e eliminacao dos threads geram um ganho de desempenho.
+
+
